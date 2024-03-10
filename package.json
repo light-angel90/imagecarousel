@@ -18,6 +18,7 @@
   "author": "NataliyaNahirna",
   "license": "MIT",
   "dependencies": {
-    "imagecarouselnata": "^1.0.0"
+    "imagecarouselnata": "^1.0.0",
+    "localizationlibrarynata": "^1.0.1"
   }
 }
