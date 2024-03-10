@@ -1,5 +1,5 @@
 {
-  "name": "imagecarouselnata", 
+  "name": "localizationlibrarynata", 
   "version": "1.0.0", 
   "description": "bynataliya", 
   "main": "./src/index.js",
@@ -15,6 +15,6 @@
     "",
     ""
   ],
-  "author": "", 
+  "author": "NataliyaNahirna", 
   "license": "MIT"
 }
