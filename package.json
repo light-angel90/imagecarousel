@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "imagecarouselnata": "^1.0.0",
+    "imageprocessingutilitiesnata": "^1.0.0",
     "localizationlibrarynata": "^1.0.1"
   }
 }
