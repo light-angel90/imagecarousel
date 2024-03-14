@@ -1,20 +1,24 @@
 {
-  "name": "imagecarouselnata", 
-  "version": "1.0.1", 
-  "description": "bynataliya", 
+  "name": "imagecarouselnata",
+  "version": "1.0.2",
+  "description": "bynataliya",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/light-angel90/imagecarousel.git" 
+    "url": "https://github.com/light-angel90/imagecarousel.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "imageprocessingutilitiesnata": "^1.0.0",
+    "localizationlibrarynata": "^1.0.2"
+  }
 }
