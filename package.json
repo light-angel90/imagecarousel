@@ -1,6 +1,6 @@
 {
   "name": "imagecarouselnata",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "bynataliya",
   "main": "./src/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "",
     ""
   ],
-  "author": "",
+  "author": "light-angel90",
   "license": "MIT",
   "dependencies": {
     "imageprocessingutilitiesnata": "^1.0.0",
